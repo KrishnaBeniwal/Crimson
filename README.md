@@ -66,6 +66,3 @@ The bot includes automatic solvers for various Dank Memer mini-games and events.
 
 Update the hardcoded variables in `main.py` (e.g., `DANK_MEMER_ID`, `EXCLUDED_SERVER_ID`, `POOKIE_MOD_ROLE_ID`) to match your Discord server setup before starting the bot.
 
-## Screenshots
-
-*(Screenshots to be added)*
